@@ -1,0 +1,11 @@
+C:\Users\13146\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.AssemblyReference.cache
+C:\Users\13146\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.SuggestedBindingRedirects.cache
+C:\Users\13146\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Invoice.resources
+C:\Users\13146\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\13146\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\13146\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\13146\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\13146\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\13146\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\13146\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\13146\Desktop\InvoiceTotal\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
